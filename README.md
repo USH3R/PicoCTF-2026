@@ -8,16 +8,16 @@ This repository contains solved beginner-friendly practice challenges from PicoC
 - Cryptography
 - Forensics
 
-Each challenge folder contains:
-- `screenshot_flag.png` — Proof of captured flag
-- `notes.md` — Short explanation of solution steps and methodology
+Two challenge folders contain:
+- `flag` — Proof of captured flag
+- `ReadMe.md` — Short explanation of solution steps and methodology
 
 ---
 
 ## How to Browse
 1. Navigate into each challenge folder.
-2. Open `notes.md` for a brief explanation.
-3. Open `screenshot_flag.png` for verification.
+2. Open `README.md` for a brief explanation.
+3. Open `flag` or `Receipt. ...` for verification.
 
 ---
 
